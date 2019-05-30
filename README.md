@@ -2,6 +2,11 @@
 
 A Flutter application, To show the use of sqflite database in flutter with structure. 
 
+|           Adding User To DB           |             Deleting User from DB              |
+|------------------------------------|----------------------------------|
+|  <img src="https://github.com/UttamPanchasara/FlutterDBExample/blob/master/gif/add_user.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/UttamPanchasara/FlutterDBExample/blob/master/gif/delete_user.gif" height="400" alt="Screenshot"/> |
+
+
 ## Project is mainly contain two packages
 
 ### 1. Database :
