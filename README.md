@@ -65,4 +65,4 @@ If you have any suggestions or you can make this more better write me, create is
 
 # Donate
 > If you found this project helpful, consider buying me a cup of :coffee:
-- Google Pay **(panchasarauttam@okaxis)**
+- Paypal **https://paypal.me/UttamPanchasara**
